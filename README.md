@@ -29,3 +29,8 @@ This project uses Pandas and Matplotlib to clean, process, analyze, and visualiz
 ## Dataset
 
 The dataset used is Amazon Order History exported from Amazon.
+
+PLOTS:
+
+<img width="1920" height="975" alt="Tax charged DA" src="https://github.com/user-attachments/assets/bf551778-fb92-44d8-bc70-2da04e31a751" />
+<img width="1920" height="975" alt="total charged" src="https://github.com/user-attachments/assets/0b2f6141-dfb5-489a-bc0a-832d1452db83" />
